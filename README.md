@@ -1,5 +1,9 @@
 # @caijs/console-connector
 
+[![Build Status](https://travis-ci.com/CAI-js/console-connector.svg?branch=master)](https://travis-ci.com/CAI-js/console-connector)
+[![NPM version](https://img.shields.io/npm/v/@caijs/console-connector.svg?style=flat)](https://www.npmjs.com/package/@caijs/console-connector)
+[![NPM downloads](https://img.shields.io/npm/dm/@caijs/console-connector.svg?style=flat)](https://www.npmjs.com/package/@caijs/console-connector)
+
 A console connector to build console based chatbots.
 
 ## Installation
